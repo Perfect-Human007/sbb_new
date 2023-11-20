@@ -1,0 +1,35 @@
+
+:root{
+   --navyblue: #6A5ACD;
+   --navyblue_hover: #279e8c;
+}
+
+
+
+*{
+    font-family: 'Poppins', sans-serif;
+ }
+ .h-font{
+    font-family: 'Merienda', cursive;
+ }
+ .custom-bg{
+    background-color: var(--navyblue);
+    border:1px solid var(--navyblue);
+ }
+ .custom-bg:hover{
+    background-color: var(--navyblue_hover);
+    border-color: var(--navyblue_hover);
+ }
+
+ .h-line{
+   width:150px;
+   margin: 0 auto;
+   height: 1.7px;
+   
+ }
+ .custom-alert{
+   position:fixed;
+   top: 80px;
+   right: 25px;
+   z-index: 1111;
+ }
