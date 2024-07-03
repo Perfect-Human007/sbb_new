@@ -24,7 +24,7 @@
 
     // sendgrid api key
 
-    define('SENDGRID_API_KEY',"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");
+    define('SENDGRID_API_KEY',"###");
     define('SENDGRID_EMAIL',"perfecthumancool@gmail.com");
     define('SENDGRID_NAME',"Smart Bachelor Bari");
 
